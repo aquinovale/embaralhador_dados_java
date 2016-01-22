@@ -8,7 +8,8 @@ Linkedin: linkedin.com/in/aquinovale
 Este é um programa que tem como objetivo embaralhar alguns campos em um dump.
 
 
-
+# Execução
+java -jar embaralhador.jar DUMP ofuscadores
 
 
 
